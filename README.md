@@ -356,36 +356,6 @@ The original retail sales dataset
 
 Power BI report file (.pbix), if available
 
-## Steps
-
-Clone or download this repository.
-
-git clone https://github.com/yourusername/retail-store-sales-analytics.git
-
-Open the project folder.
-
-Create a database in SQL Server.
-
-Load the retail sales dataset into SQL Server.
-
-Run the data-cleaning SQL scripts.
-
-Run the EDA and business analysis queries.
-
-Review the SQL results and calculated metrics.
-
-Open the Power BI .pbix file.
-
-If required, update the data source connection in Power BI.
-
-Refresh the dataset.
-
-Explore the dashboard using the available filters and visualizations.
-
-Review the analytical report for the detailed findings.
-
-Skills Demonstrated
-
 ## SQL Data Cleaning
 
 Exploratory Data Analysis (EDA)
